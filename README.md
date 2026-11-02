@@ -168,6 +168,7 @@ All 32 verification checks passed across six testbenches.
 <img width="363" height="295" alt="Screenshot 2026-11-02 020643" src="https://github.com/user-attachments/assets/75569cb3-df20-43bf-817e-1af43505470f" />
 
 ### CPU Architecture Diagram
-<img width="1752" height="897" alt="8-Bit CPU Architecture Infographic" src="https://github.com/user-attachments/assets/0df655c1-5d64-4922-8752-c1a8610b924e" />
+<img width="1920" height="1080" alt="Program Counter" src="https://github.com/user-attachments/assets/d1a87be5-3135-4c2c-9f69-66b9c21c5b00" />
+*The CPU uses an EXECUTE/WRITEBACK state machine to accommodate its registered ALU.*
 
 
